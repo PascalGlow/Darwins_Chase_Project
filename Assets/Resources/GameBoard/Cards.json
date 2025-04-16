@@ -1,0 +1,670 @@
+{
+  "Quiz_Wissen_Karten": [
+    {
+      "Frage": "Was ist der Unterschied zwischen einer Erfindung und einer Innovation?",
+      "Antwort": "Erfindungen erfassen neue Ideen und deren Entwicklung, wohingegen die Innovation, die erfolgreiche Etablierung einer Neuerung am Markt inkludiert.",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Ordne die folgenden Innovationen absteigend nach der benötigten Zeit zur Generierung von 50 Millionen Nutzern: Radio, Facebook, PokemonGo, WhatsApp, Twitter. (Wie folgt notieren: a>b>c>d)",
+      "Antwort": "Absteigend nach der benötigten Zeit zur Generierung von 50 Millionen Nutzern ist die folgende Reihenfolge der Innovationen korrekt: Radio>Facebook>Twitter>WhatsApp>PokemonGo",
+      "Punkte": "2",
+      "Notiz": "Radio (13 Jahre), Facebook (1 Jahr), Twitter (9 Monate), What`s App (3 Monate), Pokemon Go (19 Tage)."
+    },
+    {
+      "Frage": "Was ist der Unterschied einer technologiegetriebenen und einer marktgetriebenen Innovation? Nenne je 1 Beispiel.",
+      "Antwort": "Technologiegetrieben: Basierend auf einer neuartigen Technologie, wird deren erfolgreiche Umsetzung auf dem Markt erzielt (Bspw. Internet). Marktgetrieben: Ein bestehendes Kundenproblem motiviert das Schaffen einer innovativen Lösung. (Bspw. Airbnb)",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Was ist ein Intrapreneur?",
+      "Antwort": "Ein Intrapreneur ist ein Mitarbeiter, der so handelt, als wäre er selbst ein Unternehmer.",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Was ist der Unterschied zwischen einer radikalen und einer inkrementellen Innovation?",
+      "Antwort": "Eine inkrementelle Innovation beschreibt die schrittweise Verbesserung und hat daher gegenüber der radikalen Innovation mit weitreichendem Veränderungspotential einen geringeren Innovationsgrad.",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Von wem stammt der Ausdruck der „schöpferischen Zerstörung“ und was verbirgt sich dahinter?",
+      "Antwort": "Der Ausdruck stammt von Joseph Schumpeter; es verbirgt sich die Zerstörung tradierter Strukturen zur Schaffung von Innovation dahinter.",
+      "Punkte": "1",
+      "Notiz": "Gehe zwei Felder zurück"
+    },
+    {
+      "Frage": "Welcher dieser Bausteine ist NICHT Teil des Business Model Canvas: a)Schlüsselressourcen, b)Kostenstruktur, c)Kennzahlen, d)Kundensegmente.",
+      "Antwort": "c). Die Kennzahlen sind Bestandteil des Lean Canvas von Ash Maurya und sollen dort bei der Operationalisierung entlang des Produktlebenszyklus helfen. Im Business Model Canvas tauchen sie hingegen nicht auf.",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Was beschreibt der Unfair Advantage?",
+      "Antwort": "Der unfair Advantage beschreibt den relevanten Konkurrenzvorteil, welcher nicht jedem zur Verfügung steht. Beispiel: Insiderwissen",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Welche Form nimmt der Graph an, der das Leistungspotential einer einzelnen Technologie in Abhängigkeit von den kumuliert aufgewendeten Mitteln für die Forschung und Entwicklung illustriert?",
+      "Antwort": "Es wird eine S-Kurve unterstellt, da die physische Leistungsfähigkeit einer Technologie einem ähnlichen Reifungsprozess unterliegt: Langsame Leistungssteigerung nach Markteinführung, Unsicherheit hinsichtlich des vollen Potentials, deren Beseitigung und steiler Leistungsanstieg, Schwellwert bzw. Ablösung durch Innovation",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Nenne 2 formale und 2 informelle Schutzmechanismen zum Schutz geistigen Eigentums.",
+      "Antwort": "Formale Schutzmechanismen sind: z.B. Patent, Copyright, geschützter Markenname. Informelle Schutzmechanismen sind: z.B. hohe Legitimität des Markennamens, schwer kopierbares Alleinstellungsmerkmal",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Nenne 3 gesellschaftliche Trends, die Innovationen fördern.",
+      "Antwort": "Trends sind z.B. Klimaschutz (Forschung in alternativen Antriebstechnologien), Urbanisierung (z.B. neue Mobilitätskonzepte), Digitalisierung (z.B. Software)",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Was war jeweils die innovative Leittechnologie der 1. bis 3. Industriellen Revolution?",
+      "Antwort": "Die innovativen Leittechnologien waren die Folgenden: 1) Wasser- und Dampfkraft (Mechanischer Webstuhl),  2) elektrische Energie (Fließbandfertigung), 3) Elektronik und IT (SPS).",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Was ist ein mentaler Lock-In-Effekt? Kann er in dein GM integriert werden?",
+      "Antwort": "Ein mentaler Lock-In-Effekt ist ein Einrastpunkt: Mentale Abhängigkeit zur Nutzung des Produktes sichert Kundenbindung (z.B. Abomodelle für Online-Dienste).",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Was ist ein funktionaler Lock-In-Effekt? Kann er in dein GM integriert werden?",
+      "Antwort": "Ein funktionaler Lock-In-Effekt in ein Einrastpunkt: Ein Anbieterwechsel würde zum Datenverlust führen bzw. die Nutzung des Produktes nicht mehr möglich machen (z.B. Medienbibliothek).",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Nenne 3 ehemalige Branchenriesen, die bereits vom Markt verdrängt worden sind. Welche Ursachen siehst du dafür?",
+      "Antwort": "z.B. Quelle, Kodak, Otto: sie waren nicht mehr anpassungsfähig genug mit ihren Geschäftsmodellen und konnten dem technologischen Fortschritt daher nicht standhalten.",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Was ist ein relativer Vorteil? Beschreibe diesen für dein Geschäftsmodell.",
+      "Antwort": "Der relative Vorteil beschreibt den Grad, um den die Innovation Alternativen überlegen ist.",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Was verbirgt sich hinter dem Begriff Digitaler Darwinismus?",
+      "Antwort": "Der DD beschreibt den Selektionsprozess, der sich automatisch vollzieht, wenn sich Unternehmen nicht schnell und effektiv genug den veränderten Rahmenbedingungen aufgrund der Digitalisierung anpassen können und daher vom Markt verdrängt werden.",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Wann wurde der Begriff „Geschäftsmodell“ (Business Model) erstmalig in einem wissenschaftlichen Artikel erwähnt?",
+      "Antwort": "Erstmalig 1957",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Wie viele Jahre hat es gedauert, bis nach Erfindung des Fernsehers weltweit 50 Millionen Nutzer generiert wurden?",
+      "Antwort": "38 Jahre",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "2007 wurden 2 Millionen Patente untersucht, inwiefern sie sich auf die Rekombination von 40 zuvor von Altshuller definierte Muster zurückführen ließen. Bei wieviel Prozent der Patente war dies möglich?",
+      "Antwort": "99 Prozent",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Wo liegt der Unterschied zwischen digitaler Transformation und der Digitalisierung?",
+      "Antwort": "Die Digitalisierung bedeutet zunächst analoge Inhalte zu digitalisieren. Die Digitale Transformation hingegen schließt weitere Veränderungen, die die Digitalisierung mit sich bringt, ein.",
+      "Punkte": "2"
+    },
+    {	
+      "Frage": "Der Cisco Annual Internetreport hat in einer Studie über die Digitalisierung errechnet, dass ein durchschnittlicher Deutscher in 2018 5.8 Internetfähige Geräte besitzt. Schätzen Sie die Durchschnittliche Menge an internetfähigen Geräten pro Kopf für das Jahr 2023.",
+      "Antwort": "9.8 internetfähige Geräte werden prognostiziert.",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Wozu dient die Sprint Retrospektive nach jedem Sprint im SCRUM-Vorgehensmodell?",
+      "Antwort": "Bei der Sprint Retrospektive treffen sich der Scrum Master, der Product Owner und das Entwicklungsteam. Sie überprüfen zuerst die Qualität des zurückgelegten Sprints und versuchen im Anschluss Maßnahmen zur Verbesserung der Prozesse, z.B. durch die Erhöhung der Produktivität des Entwicklungsteams, in zukünftigen Sprints/Scrums zu entwickeln.",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Was ist NFC? Gib ein Beispiel dazu.",
+      "Antwort": "Die Abkürzung NFC bedeutet Near Field Communication, die übersetzt Nahfeldkommunikation heißt. Sie nutzt die Radio Frequenz Identifikation (RFID)-Technologie. Es handelt sich um eine drahtlose Übertragungstechnik, welche dem kontaktlosen Datenaustausch zwischen Geräten mit einer Distanz von 4 Zentimetern ermöglichen soll. So kann man auf Inhalte und Dienste zugreifen, wie bargeldlose Zahlungen bei GoogleWallet.",
+      "Punkte": "2"
+    },
+    {	
+      "Frage": "Was versteht man unter crowdsourcing?",
+      "Antwort": "Die Auslagerung von Aufgaben oder Projekten aus dem Unternehmen an eine Gruppe von Internetnutzern",
+      "Punkte": "1"
+    },
+    {	
+      "Frage": "Was ist der morphologischen Kasten?",
+      "Antwort": "Der Morphologische Kasten ist eine Kreativitätsmethode zur systematischen Analyse komplexer Aufgabenstellungen. Der betrachtete Gegenstand (z.B. Produkt, Problemstellung) wird strukturiert in seine Elemente / Parameter zerlegt, für die mögliche Varianten aufgelistet werden. Durch das vielfältige Kombinieren dieser Varianten können innovative, zielführende Ansätze identifiziert werden.",
+      "Punkte": "2"
+    },
+    {	
+      "Frage": "Nenne eine neue Kerntechnologie, welche die Grundlage der digitalen Transformation bildet.",
+      "Antwort": "Moderne ERP- und Datenbanktechnologien, Innovative Analyselösungen, Cloud-Konnektivität, Lösungen für KI und maschinelles Lernen, Internet der Dinge, Robotik und robotergesteuerte Prozessautomatisierung (RPA)",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Was ist ein nachhaltiges Geschäftsmodell?",
+      "Antwort": "Nachhaltige Geschäftsmodelle fußen auf Geschäftsideen, die einen Beitrag für Umwelt und Gesellschaft leisten. Sie begründen ein Geschäft, welches auf den Prinzipien der Nachhaltigkeit aufbaut und diese ins Unternehmerische übersetzt.",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Welche der drei Begriffe ist ein Geschäftsmodell: Aikido, Judo, Seiso und was bedeutet dieses?",
+      "Antwort": "Aikido: Man versucht dabei mit einem ähnlichen Produkt, aber einer ganz anderen Value-Proposition den Market zu erobern. Mit diesem Modell lockt man vor allem die Kunden an, die mit dem Mainstream in der Branche nicht zufrieden sind.",
+      "Punkte": "2"
+    },
+    {	
+      "Frage": "Nenne die fünf Stufen der Design Thinking Methode!",
+      "Antwort": "Die fünf Stufen der Design Thinking Methode sind die Folgenden: 1.Problemfindung, 2.Needfinding, 3.Ideenfindung, 4.Prototyping, 5.Testphase",
+      "Punkte": "2",
+	"Notiz": "1.Problemfindung (Durch Austausch in der Gruppe wird das Problem der Zielgruppe definiert), 2.Needfinding (Fokus auf Bedürfnisse und verstehen von Handlungen der Zielgruppe), 3. Ideenfindung (Ziel: Lösungen für Phase 1 und 2 finden), 4.Prototyping (Ziel ist die Idee in Form eines Prototypen darzustellen, der möglichst selbsterklärend ist und die Idee so greifbar für Andere macht.), 5.Testphase (Der in Phase 4 erstellte Prototyp wird der Zielgruppe in dieser Phase präsentiert. Ziel dieser Phase ist aus dem Feedback der Zielgruppe zu lernen und den Prototypen daran anzupassen.)"
+    },
+    {	
+      "Frage": "Nennen Sie 3 Ziele der Digitalen Transformation?",
+      "Antwort": "Die 3 Ziele der Digitalen Transformation sind die Folgenden: Kundenbindung, Effizienzsteigerung, Umsatzsteigerung",
+      "Punkte": "2"
+    },
+    {	
+      "Frage": "Nennen Sie 3 Akteure der Digitalen Transformation?",
+      "Antwort": "Das Individuum, Gemeinschaften von Individuen, Unternehmer, Mitarbeiter von Unternehmen, Mitarbeiter von staatlichen Institutionen, der Staat, Individuen der Politik und Wissenschaftler",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Wie viel Prozent der Unternehmen glauben die notwendigen Kompetenzen für eine erfolgreiche digitale Transformation zu besitzen?",
+      "Antwort": "22%",
+      "Punkte": "1"
+    },
+    {
+      "Frage": "Was versteht man unter dem Begriff Internet of Things? Gebe zusätzlich noch ein aktuelles 'Produkt' und ein Produkt/ eine Innovation an, bei der du denkst, dass es diese in Zukunft geben wird.",
+      "Antwort": "Internet of Things IoT =  Vision einer globalen Infrastruktur der Informationsgesellschaften, die es ermöglicht, physische und virtuelle Gegenstände miteinander zu vernetzen und sie durch Informations- und Kommunikationstechniken zusammenarbeiten zu lassen. Anstatt ein Gegenstand der menschlichen Aufmerksamkeit zu sein, soll Internet der Dinge den Menschen bei seinen Tätigkeiten unmerklich unterstützen. Ein Beispiel sind die intelligenten Heizungssysteme.",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Wozu dient das Product Backlog im Scrum Vorgehensmodell?",
+      "Antwort": "Das Product Backlog dient als Themenspeicher eines Projektes. Hier werden alle Anforderungen des Projektes gesammelt. Das Product Backlog wird zusammen mit dem Team führend vom Product Owner bearbeitet. Des Weiteren kann das Product Backlog zur Priorisierung der Anforderungen genutzt werden. Je nach Wichtigkeit werden diese der Reihe nach priorisiert. Um ein einwandfreien Prozess zu gewährleisten, sollten die Anforderungen auch gründlich beschrieben sein.",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Was ist Predictive Maintenance?",
+      "Antwort": "Daten werden einer Maschine konstant übermittelt, mit dem Ziel potentielle Störungen im Voraus zu verhindern. Da bereits durch kleine Abweichungen in den Daten abzulesen ist, dass eine Maschine nicht wie gewünscht funktioniert, wird das Risiko von Ausfällen deutlich reduziert.",
+      "Punkte": "2"
+    },
+    {
+      "Frage": "Was versteht man unter dem Begriff Software as a Service (SaaS)?",
+      "Antwort": "Unter Software as a Service versteht man, dass Unternehmen die Nutzung von interner und instandgehaltener Software an andere Unternehmen in Form einer Dienstleistung zum Verkauf/ zur Vermietung anbieten.",
+      "Punkte": "2"
+    }
+  ],
+  "Muster_Erkennen_Karten": [
+    {
+      "Frage": "Durch Zulassen von Kundenrezensionen werden neue Potentiale für das eigene Leistungsangebot geschaffen und Schwachstellen aufgespürt. Um welches Geschäftsmodellmuster handelt es sich?",
+      "Punkte": "1",
+      "Antwort": "Crowdsourcing",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Um welches Geschäftsmodellmuster handelt es sich bei CEWE color?",
+      "Antwort": "Digitalization",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Tesla verkauft Fahrzeuge online direkt über den Hersteller. Um welches Geschäftsmodellmuster handelt es sich?",
+      "Antwort": "Direct Selling",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Welches Geschäftsmodellmuster nutzt Lego durch die Ausgestaltung der Legosteine?",
+      "Antwort": "Lock-In",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Welches Geschäftsmodellmuster verfolgt Wikipedia im Kern?",
+      "Antwort": "Open Source",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Welches Geschäftsmodellmuster nutzt Groupon im Kern?",
+      "Antwort": "Two-sided market",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Auf welchem Geschäftsmodellmuster basiert Spreadshirt zur Gestaltung von Kleidung durch den Kunden?",
+      "Antwort": "User Designed",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Bei welchem Geschäftsmodellmuster werden Grundfunktionalitäten kostenlos angeboten und durch kostenpflichte Zusatzdienste erweitert?",
+      "Antwort": "Freemium",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "In welchem Geschäftsmodellmuster werden besonders viele verschiedene Produkte, jedoch in geringer Anzahl, angeboten?",
+      "Antwort": "Long-Tail",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Um welches Geschäftsmodellmuster handelt es sich bei Nestlé Nespresso und den zugehörigen Kaffeekapseln?",
+      "Antwort": "Razor and Blade",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Um welches Geschäftsmodellmuster handelt es sich im Fall von einem Fitnessstudio mit monatlichem Beitrag?",
+      "Antwort": "Subscription",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Um welches Geschäftsmodellmuster handelt es sich bei MöMax",
+      "Antwort": "Self Service",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Um welches Geschäftsmodellmuster handelt es sich bei Zalando?",
+      "Antwort": "E-Commerce",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Um welches Geschäftsmodellmuster handelt es sich bei Amazon?",
+      "Antwort": "E-Commerce",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Netflix bietet seinen Kunden eine Flatrate für Filme an. Welches Geschäftsmodell verbirgt sich neben der Flatrate noch hinter Netflix?",
+      "Antwort": "Subscription",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Um welches Geschäftsmodellmuster handelt es sich bei McDonalds?",
+      "Antwort": "Franchising",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Um welches Geschäftsmodellmuster handelt es sich bei der Automobilindustrie?",
+      "Antwort": "Mass Customization",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Um welches Geschäftsmodellmuster handelt es sich bei Airbnb?",
+      "Antwort": "Peer-to-Peer Platform",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Um welches Geschäftsmodellmuster handelt es sich bei SAP?",
+      "Antwort": "Solution Provider",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "Um welches Geschäftsmodellmuster handelt es sich bei Twitch?",
+      "Antwort": "Freemium",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    },
+    {
+      "Frage": "The Body Shop wendet die Stärke seiner Gegner gegen sie selbst. Sie benutzen natürliche Inhaltsstoffe und setzen sich für den Verbot von Tierversuchen ein. Welches Geschäftsmodellmuster verfolgen sie?",
+      "Antwort": "Aikido",
+      "Punkte": "1",
+      "Notiz": "Passt das Geschäftsmodellmuster in der Überschrift zu der Beschreibung darunter?"
+    }
+  ],
+  "Umwelt_Karten": [
+    {
+      "Frage": "Künstliche Intelligenz (KI) gewinnt mit dem technologischen Fortschritt an Wichtigkeit. Ist dein GM gegenüber Wettbewerbern, welche dein GM um KI ergänzen, unterlegen?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Nein: 2 Punkt. Ja: 1 Minuspunkte."
+    },
+    {
+      "Frage": "Datensicherheit wird immer wichtiger und Technologien zum Schutz werden immer bedeutender. Welche technischen Schutzmechanismen hast du integriert?",
+      "Antwort": "z.B. 2-Faktoren-Authentifizierung bei User-Login, SFTP-verschlüsselter Server, Abwehrmechanismus von Cyber-Angriffen, etc.",
+      "Punkte": "2",
+      "Notiz": "Ja, ein passender Eintrag ist zu finden: 2 Punkte. Ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Durch Prozessautomatisierung ist es möglich komplizierte Teilschritte maschinell (z.B. Roboter) auszuführen. Sind automatisierte Prozesse Teil deines GM?",
+      "Antwort": "Die Lösung ist gültig, wenn sie einen echten Mehrwert für den Kunden generiert bzw. dir neues unternehmerisches Potential ermöglicht.",
+      "Punkte": "2",
+      "Notiz": "Ja, ein passender Eintrag ist zu finden: 2 Punkte. Ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Die Nutzung von Produkten wird wichtiger als ihr Besitz. Wie kann dieser Trend in dein GM einfließen?",
+      "Antwort": "z.B. Abomodell oder Sharingkonzept",
+      "Punkte": "2",
+      "Notiz": "Bei sinnvoller Integration gibt es 2 Punkte."
+    },
+    {
+      "Frage": "Umweltbewusstsein ist ein starker gesellschaftlicher Trend. Agierst du umweltbewusst?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Ja, ein passender Eintrag ist zu finden: 2 Punkte. Ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Insbesondere die junge Generation hat neue Erwartungen an die Arbeitswelt. Hast du eine Unternehmenskultur, welche diese neuen Erwartungen erfüllt?",
+      "Antwort": "z.B. flexible Arbeitszeiten, Selbstbestimmung, agiles Arbeiten in Crossfunktionalen Teams, gemeinsame Aktivitäten, Vertrauen als Führungsleitsatz, etc.",
+      "Punkte": "3",
+      "Notiz": "3 Punkte für mind. eine geeignete Eigenschaft im Geschäftsmodell, ansonsten 1 Punkt Abzug."
+    },
+    {
+      "Frage": "Die von dir verwendete Technologie wird verboten (gesetzlich reguliert). Kannst du das GM flexibel umgestalten?",
+      "Antwort": "z.B. Wechsel in einen anderen Markt, wo das Verbot nicht gilt; Nutzung einer alternativen Technologie, frühzeitige Mitgestaltung der Richtlinie, um die eigene Stellung gegenüber Wettbewerbern zu verbessern, etc.",
+      "Punkte": "3",
+      "Notiz": "Ja, es sind leicht umzusetzende Alternativen im GM angegeben: 3 Punkte. Ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Die Datenschutzgrundverordnung wird verschärft und es dürfen keinerlei personenbezogene Daten mehr erhoben werden. Ist dein GM noch unter maximal kleinen Änderungen nutzbar?",
+      "Antwort": "z.B. GM funktioniert nur durch die Erfassung personenbezogener Daten oder mit Einschränkungen reichen auch anonymisierte Daten aus oder Beratungsleistungen im Bereich Datenschutz ermöglichen uns einen neuen Geschäftszweig.",
+      "Punkte": "2",
+      "Notiz": "Ja, das GM kann weiter betrieben werden: 2 Punkte. Ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Die Politik reguliert den CO2- Ausstoß noch stärker. Hat das einen großen Einfluss auf dein GM?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Das GM ist größtenteils unbetroffen: 2 Punkte. Ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Die Markteintrittsbarrieren sind durch die Digitalisierung auch für Wettbewerber sehr gering. Ist dein GM einfach zu kopieren?",
+      "Antwort": "z.B. Spezialisierung auf eine Nische mit hoher Fachkompetenz, überlegene Qualität, hohe Legitimität am Markt.",
+      "Punkte": "2",
+      "Notiz": "Nein, es gibt Alleinstellungsmerkmale: 2 Punkte, ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Du musst schnell auf sich rasant wandelnde Marktanforderungen reagieren können. Ist deine Organisationsstruktur, strategische Ausrichtung oder Wertschöpfungsarchitektur reaktionsfähig aufgestellt",
+      "Antwort": "z.B. Bildung vieler kleiner (Scrum)-Teams, die autark schnell und flexibler handeln können als funktionale Silos; Spezialisierung auf Kernkompetenz aber paralleles Weiterforschen an Alternativlösungen zur Reaktion auf exogene Schocks (z.B. Erforschung verschiedener Antriebstechnologien aufgrund möglicher Regulierung); verschiedene Kostenmodelle für verschiedene Kundensegmente.",
+      "Punkte": "2",
+      "Notiz": "Ja, ein passender Eintrag ist zu finden: 2 Punkte. Ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Sind deine Größe und noch geringe Legitimität auf dem Markt ein Vorteil für dein GM?",
+      "Antwort": "Ist in dem Bereich, dem das GM zugehörig ist, eher schnelles, agiles Handeln oder der Zugang zu großen Ressourcen von Vorteil? Wie ist die Wettbewerbsdichte?",
+      "Punkte": "2",
+      "Notiz": "Ist schnelles und agiles Handeln wichtig, dann ist eine kleine Größe ein Vorteil (2 Punkte). Ist der Zugang zu großen Ressourcen wichtig, ist es ein Nachteil (-1 Punkte)."
+    },
+    {
+      "Frage": "Die Ölpreise/Benzinpriese steigen aufgrund der Ressourcenknappheit. Hat das einen großen Einfluss auf dein GM?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Nein, hat es nicht: 2 Punkte, ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Durch den Klimawandel kam es in den letzten Jahren zu verheerenden Überflutungsfällen und anderen Naturkatastrophen. Dies wird sich in den kommenden Jahren noch weiter verstärken. Hat das einen großen Einfluss auf dein GM?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Das GM ist größtenteils unbetroffen: 2 Punkte. Ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Die Mülltrennung ist ein großer Teil des Umweltbewussten Handelns. Schon mal drüber nachgedacht, wie Umweltbewusst dein GM ist?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Umweltbewusste Aspekte (2 Punkte), ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Eine neue Markanalyse zeigt, dass ihr Hauptkundenstamm an einem 24/7 Kundenservice interessiert ist. Kann dein Unternehmen mit diesem Trend mitgehen?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Ja kann es: 2 Punkte, ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Die Politik führt ein verpflichtendes Label ein, an welchem die Nachhaltigkeit eines Unternehmens erkannt werden kann. Welchen Einfluss hat dies auf die Wahrnehmung deines GM durch deine Kunden?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Schlüssige Erklärung: 2 Punkte. Ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Die deutsche Regierung verschärft die DSGVO (Datenschutz Grundverordnung) und führt strengere Kontrollen durch. Inwiefern ist dein Geschäftsmodell betroffen?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Nicht betroffen (2 Punkte), ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Sowohl die Politik als auch deinen Konkurrenten agieren umweltbewusst. Welche Methoden würdest du nutzen, um zu zeigen, dass auch dein Unternehmen umweltbewusst ist oder geworden ist?",
+      "Antwort": "z.B. Lokale Herstellung/ Vermarktung/ Lieferung, Transparente Prozesse, Umweltlabels,...",
+      "Punkte": "2",
+      "Notiz": "Passender Eintrag ist zu finden: 2 Punkte, ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Der neue Minister für Umwelt und Naturschutz möchte, dass bis 2030 alle Unternehmen ihren CO2 Ausstoß um mindestens 20% regulieren. Hierzu werden Unternehmen auch finanziell unterstützt, um Energie aus der Natur zu gewinnen. Wie stellt sich dein GM auf diese Anforderungen des Staates ein?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Passender Eintrag gefunden: 2 Punkte. Ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Nachhaltigkeit und Recycling spielt heutzutage eine große Rolle. Beeinflusst dein GM das Thema Nachhaltigkeit/ Recycling negativ?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Nein (2 Punkte), ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Die Strompreise steigen stark an. Viele Unternehmen müssen Einschränkungen machen, um gegen die hohen Preise anzukommen. Kann dein Unternehmen den Preissteigerungen standhalten? Wie kannst du dein Geschäftsmodell daran anpassen?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Nicht betroffen oder passende Ideen, ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Die Gasimporte Deutschland sinken rapide. Hat das einen großen Einfluss auf dein Unternehmen?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Nein 2 Punkte, ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Die Regierung hat sich entschlossen, dass nur noch USB C als charging port in elektronischen Geräten verwendet werden darf. Hat das einen großen Einfluss auf dein Geschäftsmodell?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Nein 2 Punkte, ansonsten -1 Punkte."
+    },
+    {
+      "Frage": "Die durchschnittliche Anzahl der App Installationen in Deutschland nimmt stark ab, ist dein Geschäftsmodell von dieser Entwicklung betroffen?",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Nein (2 Punkte), ansonsten -1 Punkte."
+    }
+  ],
+  "Kreativ_Karten": [
+    { 
+      "Frage": "Jeder Spieler überlegt sich einen Slogan für das eigene Geschäftsmodell.",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Zwei Punkte für einen guten Slogan"
+    },
+    {
+      "Frage": "Jeder Spieler hat Zeit eine Persona zu skizzieren, die detailliert einen Zielkunden verkörpert.",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Für eine realistische Antwort, gibt es 2 Punkte."
+    },
+    {
+      "Frage": "Dein GM löst ein spezifisches Kundenproblem. Überlege dir eine Alternative, wie der Kunde sein Problem abseits deines GMs lösen kann.",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Die genannte Lösung müssen bereits existieren oder sofort umsetzbar sein. Für eine richtige Antwort gibt es 2 Punkte."
+    },
+    {
+      "Frage": "Welche Interessenskonflikte zwischen möglichen Rollen gibt es hinsichtlich des Geschäftsmodells. Finde 3 Interessenskonflikte.",
+      "Antwort": "",
+      "Punkte": "3",
+      "Notiz": "Für drei nachvollziehbare Interessenskonflikte, bekommst du, 3 Punkte, ansonsten 0."
+    },
+    {
+      "Frage": "Jeder Spieler denkt sich einen Reim mit Bezug auf sein Geschäftsmodell aus.",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Ein valider Reim erhält 2 Punkte."
+    },
+    {
+      "Frage": "Ihr werdet beauftragt einen Werbespot zu entwickeln. Schreibe in Stichpunkten die Idee für den Verlauf des Werbespots auf",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "Deine Mitspieler entscheiden über deinen Erfolg. 2 Punkte für einen Erfolg, ansonsten 0 Punkte."
+    },
+    {
+      "Frage": "Jeder Spieler hat Zeit sich eine konkrete Maßnahme zu überlegen, um Innovation in eurem Unternehmen zu fördern.",
+      "Antwort": "z.B. Innovationslab, Integration der Kunden, Product Reviews, Ideenwettbewerb, Innovationsfonds, etc.",
+      "Punkte": "2",
+      "Notiz": "2 Punkte für eine realistische Maßnahme."
+    },
+    {
+      "Frage": "Überlege dir eine Situation, in der kulturelle Unterschiede ein Problem für dein Geschäftsmodell werden könnten.",
+      "Antwort": "z.B. schlechte Übersetzungen in öffentlichen Auftritten, unterschiedliche Schönheitsideale, religiöse Verbote etc.",
+      "Punkte": "1",
+      "Notiz": "1 Punkt für eine realistische Antwort."
+    },
+    {
+      "Frage": "Mit welchem Unternehmen, könntest du eine Kooperation eingehen? Begründe",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "2 Punkte für eine schlüssige Begründung."
+    },
+    {
+      "Frage": "Jeder Spieler nennt bitte ein Nutzenversprechen für sein Geschäftsmodell.",
+      "Antwort": "",
+      "Punkte": "1",
+      "Notiz": "1 Punkte für eine realistische Antwort."
+    },
+    {
+      "Frage": "Jeder Spieler denkt sich bitte eine Vermarktungsstrategie für sein Geschäftsmodell aus.",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "2 Punkt für eine realistische Antwort."
+    },
+    {
+      "Frage": "Jeder Spieler denkt sich bitte eine Schwachstelle und einen Lösungsvorschlag für sein Geschäftsmodell aus!",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "2 Punkte für eine schlüssige Antwort."
+    },
+    {
+      "Frage": "Jeder Spieler überlegt in welchem Markt sein Geschäftsmodell (außer dem ursprünglichen) eingesetzt werden kann.",
+      "Antwort": "",
+      "Punkte": "1",
+      "Notiz": "1 Punkte für eine realistische Antwort."
+    },
+    {
+      "Frage": "Jeder Spieler legt bitte die Unternehmenskultur für sein Geschäftsmodell fest: modern, traditionell, gemischt. Begründe.",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "2 Punkt für eine schlüssige Begründung."
+    },
+    {
+      "Frage": "Die Kunden haben Datenschutzbedenken. Jeder Spieler denkt sich bitte für sein Geschäftsmodell aus, wie dem Kunden mehr Sicherheit vermittelt werden kann.",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "2 Punkte für eine schlüssige Antwort."
+    },
+    {
+      "Frage": "Präsentiere potenziellen Investoren in ein paar Sätzen sein Geschäftsmodell.",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "2 Punkte für eine realistische Antwort."
+    },
+    {
+      "Frage": "Jeder Spieler denkt bitte an ein Problem aus dem Alltag und beschreibt, wie das Produkt oder die Dienstleistung seines Geschäftsmodells dieses Problem lösen kann.",
+      "Antwort": "",
+      "Punkte": "2",
+      "Notiz": "2 Punkt für eine schlüssige Antwort."
+    },
+    {
+      "Frage": "Wie sehen die Interaktionsräume mit den Kunden für dein Geschäftsmodell aus?",
+      "Antwort": "z.B. Internetauftritt, Präsenz, etc.",
+      "Punkte": "1",
+      "Notiz": "1 Punkte für eine schlüssige Antwort."
+    },
+    {
+      "Frage": "Jeder Spieler denkt sich bitte ein Motto für sein Geschäftsmodell aus.",
+      "Antwort": "",
+      "Punkte": "1",
+      "Notiz": "1 Punkt für eine passendes Motto."
+    },
+    {
+      "Frage": "Jeder Spieler denkt sich bitte ein Ziel seines Geschäftsmodell aus.",
+      "Antwort": "",
+      "Punkte": "1",
+      "Notiz": "1 Punkte für ein realistisches Ziel."
+    }
+  ],
+  "Raketen_Karten": [
+    {
+      "Frage": "Raketenkarte!",
+      "Antwort": "",
+      "Notiz": "Baustein 1: Die Umwelt\n Den umrahmenden ersten Baustein der Umwelt des Digital Canvas bilden die vier Aspekte Technologie & Trends, Marktstruktur & Industrielogik, Gesellschaft und Regularien als grundlegende Säulen einer optimierten Umwelt. Da sie zugleich als Auslöser und Resultat einer Geschäftsmodellinnovation fungieren sollten alle weiteren Komponenten nie losgelöst von den diesbezüglich identifizierten Umweltparametern konzipiert werden. Deshalb empfiehlt sich ein Start mit einer detaillierten Auseinandersetzung dieser Rahmenbedingungen.",
+      "Extra": "Welche Technologien und Trends dominieren den Markt? Wie könnten diese in das GM integriert werden? Welche Technologien sind nützlich/hinderlich und welche Trends beflügeln/behindern das eigene GM? Wie sieht die Marktstruktur aus (Größe, Verbreitung und Dichte der Wettbewerber, Verhältnis der Anbieter und Nachfrager, etc.)? Gibt es eine dominante Industrielogik? Gibt es ein vorherrschendes Muster der Wertschöpfung (z.B. Digitalplattform, Sharing Economy, etc.)? Welche gesellschaftlichen Rahmenbedingungen (z.B. Klima Aktivismus, Wohlstandsgesellschaft, Digitalisierungsaffinität) herrschen vor? Welche Regularien sind für das GM relevant und welche Auswirkungen haben diese (z.B. DSGVO, CO2-Regulation, etc.)?"
+    },
+    {
+      "Frage": "Raketenkarte!",
+      "Antwort": "",
+      "Notiz": "Baustein 2: Der Kunde\n Der Kunde steht im Zentrum des Digital Canvas, da er für das Leistungsangebot zahlt und daher zufriedengestellt werden muss. Nicht immer ist der zahlende Kunde jedoch deckungsgleich mit dem Nutzer eures Angebots. Daher ist es wichtig zunächst zu durchdenken, wie euer genaues Geschäftsmodellkonstrukt diesbezüglich gestrickt ist.",
+      "Extra": "Wer wird euer Leistungsangebot nutzen und wer soll dafür bezahlen? Charakterisiert euren Kunden näher (Altersspanne, Lebenssituation, Kaufkraft, Gewohnheiten, Erreichbarkeit, etc.). Wie erreicht ihr eure potenziellen Kunden und was ist dafür nötig?"
+    },
+    {
+      "Frage": "Raketenkarte!",
+      "Antwort": "",
+      "Notiz": "Baustein 3: Problem/Bedürfnis und Mehrwert\n Direkt an den Kunden anknüpfend werden dessen Probleme und Bedürfnisse identifiziert und der Mehrwert, welcher durch das GM geschaffen werden soll, festgehalten. Da es Konstellationen geben kann, in denen der zahlende Kunde nicht kongruent mit dem Nutzer des Leistungsangebotes ist, muss diesbezüglich ggf. eine Differenzierung vorgenommen werden, sodass der jeweils geschaffene Mehrwert einzeln herausgearbeitet wird.",
+      "Extra": "Mit welchem echten Problem ist der Kunde konfrontiert? Welche offensichtlichen oder latenten Bedürfnisse hat er, die befriedigt werden müssen? Welchen Mehrwert bietet euer Geschäftsmodell, um genau auf diese identifizierten Probleme und Bedürfnisse zu reagieren? Welche Alternativen hat der Kunde? In welchem Verhältnis steht sein Leidensdruck zu eurem Angebot?"
+    },
+    {
+      "Frage": "Raketenkarte!",
+      "Antwort": "",
+      "Notiz": "Baustein 4: Operande und Operante Ressourcen\n Der kreisförmig umlaufende Pfeil illustriert die gemeinsame Ressourcenintegration von Anbieter und Nachfrager im Zuge der gemeinsamen Wertschöpfung, wie sie in digitalen Ökosystemen üblich ist. Denn durch seine Interaktion mit dem Produkt und seine eigenen Fähigkeiten kommt es häufig zu Kollaboration mit dem Kunden (z.B. Customer Reviews, Co-Creation, Tracking), welcher dadurch Teilaufgaben des Anbieters übernimmt. Die beiden verwendeten Symbole stehen dabei für operande und operante Ressourcen.\n Die Positionierung dieser Ressourcenintegration ist bewusst als verbindendes Element zwischen dem Kundenbedürfnis und geschaffenen Mehrwert und den das GM strukturierenden Kernbausteinen gewählt worden, da die (digitalen) Ressourcen einerseits neue Kundenbedürfnisse vorhersagen und befriedigen können und andererseits auch das Leistungsangebot selbst verändern können.",
+      "Extra": "Welche operanden, also physischen/materiellen Ressourcen sind für euer Geschäftsmodell von Bedeutung? Welche operanten, also immateriellen/fähigkeitsbasierten Ressourcen sind für euer GM von Bedeutung? Welche Ressourcen müsst ihr einerseits selbst einbringen und welche Ressourcen könnten durch Drittanbieter oder die Kunden selbst integriert werden? Dank der zunehmenden Dienstleistungsorientierung (Service Dominante Logik) im Digitalzeitalter wächst die Relevanz operanter Ressourcen."
+    },
+    {
+      "Frage": "Raketenkarte!",
+      "Antwort": "",
+      "Notiz": "Baustein 5: Daten\n Im Digitalzeitalter prägen Daten ganz maßgeblich die Innovation von Geschäftsmodellen. Daher sind sie integraler Baustein digitaler Geschäftsmodelle geworden und der Umgang mit Ihnen ist wettbewerbsentscheidend.",
+      "Extra": "Welche Rolle spielen Daten für euer Geschäftsmodell? Welche Möglichkeiten gibt es diese sinnvoll zu nutzen, aber gleichzeitig zu schützen? Welche Erweiterungen des Geschäftsmodells sind durch den Einsatz von Daten denkbar?"
+    },
+    {
+      "Frage": "Raketenkarte!",
+      "Antwort": "",
+      "Notiz": "Baustein 6: Das Hybride Produkt\n Aufgrund der neuen digitalen Möglichkeiten ist ein auf rein physischen Gütern aufbauendes Leistungsspektrum gegenüber digital angereicherter Alternativen zumeist unterlegen. Hybride Produkte als Kompositum aus einer physischen Komponente und digitalen Diensten ermöglichen in der Umbruchsphase der Digitalen Transformation neuartige erfolgsversprechende Geschäftsmodelle, weil sie als Hybride der digitalen und analogen Evolutionslinie als Vermittler zwischen beiden Systemen dienen.\n Durch eine drastische Überlegenheit ihres Nutzenvorteils auf dem Markt, initiieren hybride Produkte einen spürbaren Anstieg der Erwartungshaltung für die gesamte Produktkategorie. Gewissermaßen üben sie Druck auf andere Unternehmen aus, ihr Leistungsspektrum entsprechend anzupassen. Sie bieten eine radikale Verbesserung für den Nutzer gegenüber dem Ursprungszustand vor Einführung des Produktes.\n Dank sinkender Grenzkosten, exponentieller Technologiesprünge, weitreichender Netzwerkeffekte, hoher Skalierbarkeit und dem datengetriebenen oft inhärenten Produktmarketing, erfolgt die Marktdurchdringung rasant schnell. Die Nutzung hybrider Produkte führt darüber hinaus zu nachhaltigen Verhaltensänderungen seiner Konsumenten und zeichnet sich häufig dadurch aus, dass das Marketing bereits in das Produkt selbst integriert ist (z.B. datenbasierte, individualisierte Angebote, die automatisiert ausgespielt werden).\n Als Veränderungskatalysatoren transformieren sie ferner die Wertschöpfung, indem sie maßgeblich zur Gewinnerzielung in dem Unternehmen, dem sie zugeordnet sind, beitragen.",
+      "Extra": "Verfügt ihr über ein Hybrides Produkt? Wie können sich die physische und die digitale Komponente ergänzen?"
+    },
+    {
+      "Frage": "Raketenkarte!",
+      "Antwort": "",
+      "Notiz": "Baustein 7: Die Organisationsstruktur\n Die Organisationsstruktur eines Unternehmens ist maßgeblich entscheidend, ob ein Unternehmen mit seinem Geschäftsmodell überlebensfähig ist. Denn die Organisationsstruktur beeinflusst, wie schnell ein Unternehmen auf veränderte Marktanforderungen oder Umweltbedingungen reagieren kann. Gleichzeitig entscheidet die Organisationsstruktur über die gelebte Verhaltenskultur (z.B. das Führungsverständnis, das Miteinander, hierarchische Kommunikation, etc.).\n Beispielhafte Kriterien: altes / junges Unternehmen, kleine / große Unternehmensgröße, niedrige / hohe Wettbewerbsdichte, generelle / spezialisierte Ausrichtung",
+      "Extra": "Wie soll eure Organisationsstruktur aufgebaut sein? Welche Maßnahmen helfen euch dabei flexibel umstrukturieren zu können? Welches Verständnis von Zusammenarbeit, Führung und strategischer Ausrichtung verfolgt ihr?"
+    },
+    {
+      "Frage": "Raketenkarte!",
+      "Antwort": "",
+      "Notiz": "Baustein 8: Die Ertragsmechanik\n Das übergeordnete Ziel eines jeden Geschäftsmodells ist es, Gewinne zu erzielen. Daher muss eine sich rentierende Kostenstruktur mit langfristigen Einnahmequellen geschaffen werden. Die gewählte Ertragsmechanik hängt stark vom gewählten Geschäftsmodell ab und kann daher vielseitig gestaltet werden.",
+      "Extra": "Welche Einnahmequellen und welche Kosten gibt es? Welche Zahlungsmöglichkeiten gibt es für die Kunden? Wie können wiederkehrende Zahlungen erreicht werden? Gibt es eine Differenzierung zwischen verschiedenen Kundensegmenten oder abweichenden Angeboten?  Ab wann ist euer Geschäftsmodell rentabel?"
+    },
+    {
+      "Frage": "Raketenkarte!",
+      "Antwort": "",
+      "Notiz": "Baustein 9: Die Anpassungsfähigkeit\n Der zentrale wettbewerbsentscheidende Faktor im komplexen Umfeld des Digitalzeitalters ist die Anpassungsfähigkeit einer Organisation, aber auch deren Geschäftsmodell selbst. Nur wenn die Komplexität der Umwelt in Harmonie zur Komplexität des Geschäftsmodells steht, ist ein Überleben am Markt möglich, denn im Zuge des sogenannten „Digitalen Darwinismus“ werden unzureichend angepasste Geschäftsmodelle einfach vom Markt verdrängt. ",
+      "Extra": "Welche Bausteine können ohne großen Zeit- und Ressourcenaufwand flexibel angepasst werden? Wie könnt ihr Geschäftsmodellmuster anderer Wettbewerber oder aus anderen Branchen auf euer Geschäftsmodell übertragen oder einzelne Komponenten rekombinieren? Welche Möglichkeiten der Spezialisierung (=besonders hohe Anpassung auf ein spezifisches Problem) seht ihr? Kann euer Geschäftsmodell auf neue Kontexte übertragen und erweitert werden? Erscheint es sinnvoll einzelne Bausteine des Geschäftsmodells zu diversifizieren, sodass sie für verschiedene Märkte anpassungsfähig sind?"
+    }
+  ],
+  "Muster_Karten": [
+    "Crowdsourcing",
+    "Digitalization",
+    "Direct Selling",
+    "Lock-In",
+    "Open Source",
+    "Two-sided market",
+    "User Designed",
+    "Freemium",
+    "Long-Tail",
+    "Razor and Blade",
+    "Self Service",
+    "E-Commerce",
+    "Franchising",
+    "Mass Customization",
+    "Peer-to-Peer Platform",
+    "Solution Provider",
+    "Subscription",
+    "Aikido"
+  ]
+}
